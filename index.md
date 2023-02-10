@@ -2,10 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# The Sherlock Lab - Experimental Evolution in Microbial Systems
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Sherlock lab uses experimental approaches to understand the evolutionary process, specifically interested in i) what's the rate of beneficial mutation, ii) what is the distribution of fitness effects of beneficial mutations, iii) what are the identities of beneficial mutations (and are they gain or loss of function, are they recessive, dominant or overdominant, are they genic or regulatory?), and iv) how do each of these change as a function of genotype, ploidy and environment. We are also interested in how mutations that are beneficial in one environment fare in others, to explore the trade-offs that inevitably occur when fitness increases in a specific environment, and we are interested in exploring at what level experimental evolution can be deterministic, and at what level it is stochastic. We typically use short-term continuous (chemostat) and serial batch culture experiments in conjunction with lineage tracking and high throughput sequencing to understand the adaptive changes that occur in response to selective pressure, typically using yeast as a model organism.
+
+
 
 {%
   include link.html
