@@ -1,6 +1,6 @@
 ---
 name: Michelle Hays
-image: images/member.jpg
+image: images/michelle_hays.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
