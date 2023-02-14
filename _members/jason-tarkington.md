@@ -1,6 +1,6 @@
 ---
 name: Jason Tarkington
-image: images/member.jpg
+image: images/jason_tarkington.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
