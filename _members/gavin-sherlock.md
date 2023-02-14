@@ -1,6 +1,6 @@
 ---
 name: Gavin Sherlock
-image: images/member.jpg
+image: images/gavin_sherlock.jpg
 description: Professor
 role: pi
 aliases:
