@@ -1,6 +1,6 @@
 ---
 name: Elisa Visher
-image: images/member.jpg
+image: images/elisa_visher.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
