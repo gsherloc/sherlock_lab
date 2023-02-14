@@ -1,6 +1,6 @@
 ---
 name: Angelina Chan
-image: images/member.jpg
+image: images/angelina_chan.jpg
 description: Undergraduate Student
 role: undergrad
 aliases:
