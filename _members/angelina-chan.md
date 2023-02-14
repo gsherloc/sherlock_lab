@@ -2,7 +2,7 @@
 name: Angelina Chan
 image: images/angelina_chan.jpg
 description: Undergraduate Student
-role: phd
+role: undergrad
 aliases:
   - 
 links:
