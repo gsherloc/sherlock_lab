@@ -1,6 +1,6 @@
 ---
 name: Kieran Collins
-image: images/member.jpg
+image: images/kieran_collins.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
