@@ -1,6 +1,6 @@
 ---
 name: Danica Schmidtke
-image: images/member.jpg
+image: images/danica_schmidtke.jpg
 description: Graduate Student
 role: phd
 aliases:
