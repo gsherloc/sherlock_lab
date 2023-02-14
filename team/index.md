@@ -31,7 +31,19 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: undergrad"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: programmer"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: manager"
 %}
 {:.center}
 
