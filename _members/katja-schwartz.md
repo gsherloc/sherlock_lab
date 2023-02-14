@@ -1,6 +1,6 @@
 ---
 name: Katja Schwartz
-image: images/member.jpg
+image: images/katja_schwartz.jpg
 description: Research Associate and Lab Manager
 role: 
 aliases:
