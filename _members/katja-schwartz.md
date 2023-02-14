@@ -2,7 +2,7 @@
 name: Katja Schwartz
 image: images/katja_schwartz.jpg
 description: Research Associate and Lab Manager
-role: pi
+role: manager
 aliases:
   - 
 links:
