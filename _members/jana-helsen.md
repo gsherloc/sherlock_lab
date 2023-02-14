@@ -1,6 +1,6 @@
 ---
 name: Jana Helsen
-image: images/member.jpg
+image: images/jana_helsen.jpg
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
