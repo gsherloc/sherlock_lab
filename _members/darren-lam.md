@@ -1,6 +1,6 @@
 ---
 name: Darren Lam
-image: images/member.jpg
+image: images/darren_lam.jpg
 description: Graduate Student
 role: phd
 aliases:
