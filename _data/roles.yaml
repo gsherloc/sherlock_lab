@@ -16,7 +16,7 @@ undergrad:
   
 manager:
   icon: fas fa-microscope
-  text: Lab Programmer
+  text: Lab Manager
 
 programmer:
   icon: fas fa-code
