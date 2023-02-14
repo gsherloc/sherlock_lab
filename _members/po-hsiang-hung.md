@@ -1,6 +1,6 @@
 ---
 name: Po-Hsiang Hung
-image: images/po-hsiang-hung.png
+image: images/po-hsiang_hung.png
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
