@@ -1,6 +1,6 @@
 ---
 name: Fangfei Li
-image: images/member.jpg
+image: images/fangfei_li.png
 description: Postdoctoral Fellow
 role: postdoc
 aliases:
